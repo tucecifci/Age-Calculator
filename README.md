@@ -3,7 +3,7 @@
 Hello everybody! 👋 </br>
 ✨ Welcome to the Age Calculator Project! The Age Calculator is a simple web application that allows users to calculate their age based on their date of birth. The application takes the user's date of birth as input and calculates the exact age in years, months, and days. This project demonstrates basic JavaScript functionalities, including date manipulation and user input handling.
 
-## 👀 Overview 
+## 👀 Overview
 
 ### 📷 Screenshot
 ![screencapture-tucecifci-github-io-Age-Calculator-2024-05-21-12_39_27](https://github.com/tucecifci/Age-Calculator/assets/151346784/3ef38d09-ffe8-4e88-b09b-36e55d263b43)
